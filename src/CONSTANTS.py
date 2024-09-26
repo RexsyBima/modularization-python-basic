@@ -1,0 +1,4 @@
+EMAIL = "YOUR_EMAIL"
+PASSWORD = "YOUR_PASSWORD"
+
+HELLO = "Hello World"
